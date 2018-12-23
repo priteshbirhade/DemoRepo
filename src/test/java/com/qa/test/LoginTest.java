@@ -8,7 +8,7 @@ public class LoginTest {
 	public void test(){
 		
 		System.out.println("Test test");
-		
+		System.out.println("Test test");
 	}
 	
 
